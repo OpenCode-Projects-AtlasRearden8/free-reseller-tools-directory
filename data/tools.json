@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "title": "Free Reseller Tools Directory",
+    "description": "A hand-checked directory of free-tier tools for online resellers: photo editing, keyword research, shipping calculators, sold-price lookups, sales trackers, and label makers.",
+    "updated_on": "2026-11-03",
+    "verification_note": "Every link below was fetched and checked live on 2026-11-03. Costs and limits describe the free tier as of that date and can change; the linked pricing pages are the source of truth.",
+    "policy": {
+      "affiliate_links": "none",
+      "paid_placements": "none",
+      "data_collection": "This site is static: no cookies, no analytics, no personal data."
+    }
+  },
+  "categories": [
+    {
+      "id": "photo-editing",
+      "name": "Photo Editing"
+    },
+    {
+      "id": "keyword-research",
+      "name": "Keyword Research"
+    },
+    {
+      "id": "shipping-calculators",
+      "name": "Shipping Calculators"
+    },
+    {
+      "id": "sold-price-lookups",
+      "name": "Sold-Price Lookups"
+    },
+    {
+      "id": "sales-trackers",
+      "name": "Sales Trackers"
+    },
+    {
+      "id": "label-makers",
+      "name": "Label Makers"
+    }
+  ],
+  "tools": [
+    {
+      "id": "photopea",
+      "category": "photo-editing",
+      "name": "Photopea",
+      "what_it_is": "A full photo editor that runs in your browser and behaves like Photoshop. Crop, resize, brighten, remove backgrounds, and export for your listings. Files are processed on your own device, so your photos never leave your computer.",
+      "cost": "Free with ads on the editor screen; optional ad-free premium subscription",
+      "limits": "Free tier shows ads and day-use limits are around 2.5 hours of editing before a short cooldown; premium removes ads",
+      "url": "https://www.photopea.com",
+      "verified_on": "2026-11-03",
+      "notes": "Best pick if you already know Photoshop-style tools. Supports PSD, PNG, JPG, WEBP and more."
+    },
+    {
+      "id": "gimp",
+      "category": "photo-editing",
+      "name": "GIMP",
+      "what_it_is": "The classic free, open-source image editor for Windows, Mac, and Linux. Batch-fix brightness, white balance, crop, and sharpen product shots with no restrictions at all.",
+      "cost": "Free forever (open source, donations welcome)",
+      "limits": "No account or usage limits; the interface has a learning curve and it is desktop software, not a browser tool",
+      "url": "https://www.gimp.org",
+      "verified_on": "2026-11-03",
+      "notes": "Current stable release: GIMP 3.2.6 (September 2026)."
+    },
+    {
+      "id": "removebg",
+      "category": "photo-editing",
+      "name": "remove.bg",
+      "what_it_is": "One-click background removal that cuts your item out and drops it on a clean white background, which is exactly what listing photos want.",
+      "cost": "Free previews without an account; a free account gets a small monthly credit of full-resolution downloads",
+      "limits": "Free previews come back in low resolution (roughly preview-sized, fine for a quick look but short of full listing quality); paid credits unlock full-resolution and bulk removal",
+      "url": "https://www.remove.bg",
+      "verified_on": "2026-11-03",
+      "notes": "Great for fast, clean cutouts when the free monthly credits cover your volume; otherwise remove backgrounds yourself in Photopea or GIMP."
+    },
+    {
+      "id": "canva",
+      "category": "photo-editing",
+      "name": "Canva",
+      "what_it_is": "Browser-based design suite with a photo editor, background remover, label templates, and easy resizing. Useful for listing graphics, price tags, and social posts about your sales.",
+      "cost": "Free tier; optional Pro subscription",
+      "limits": "Free tier limits background remover, some templates, and features to Pro, and limits most free designs to standard export sizes",
+      "url": "https://www.canva.com",
+      "verified_on": "2026-11-03",
+      "notes": "Lighter editing than Photopea, but faster for polished graphics and print labels."
+    },
+    {
+      "id": "everbee",
+      "category": "keyword-research",
+      "name": "EverBee",
+      "what_it_is": "A Chrome extension that shows real Etsy sales and revenue for any product, plus keyword volume and competition scores. Great for resellers who also make or list on Etsy.",
+      "cost": "Free 'Hobby' plan, no credit card required; paid plans add unlimited searches and exports",
+      "limits": "Free plan limits keyword searches (roughly ten keyword lookups, tracked in the extension), product-analytics depth, and CSV export",
+      "url": "https://everbee.com",
+      "verified_on": "2026-11-03",
+      "notes": "Install the extension and connect an Etsy account to start. Free-plan quotas reset on a monthly cycle."
+    },
+    {
+      "id": "google-trends",
+      "category": "keyword-research",
+      "name": "Google Trends",
+      "what_it_is": "Google's free trends explorer. Type a product or brand and see search interest over time, by region, to spot rising demand before it shows up in prices.",
+      "cost": "Free, no account needed for basic use",
+      "limits": "No exact search-volume numbers (relative index only); fine-grained data gets fuzzy for rarely searched terms",
+      "url": "https://trends.google.com",
+      "verified_on": "2026-11-03",
+      "notes": "Use 'Explore' to compare two or three product words side by side and check if interest is climbing or fading."
+    },
+    {
+      "id": "answerthepublic",
+      "category": "keyword-research",
+      "name": "AnswerThePublic",
+      "what_it_is": "Shows the actual questions and phrases people search around a topic, grouped into a visual map. Handy for writing listing titles and descriptions that match what buyers type.",
+      "cost": "Free tier tied to daily search limit; paid plans for more",
+      "limits": "Free plan caps daily keyword searches (a small number per day) and data updates lag behind paid tiers",
+      "url": "https://answerthepublic.com",
+      "verified_on": "2026-11-03",
+      "notes": "One or two targeted searches per research day is plenty at the free tier."
+    },
+    {
+      "id": "pirateship",
+      "category": "shipping-calculators",
+      "name": "Pirate Ship",
+      "what_it_is": "Free shipping software with pre-negotiated USPS Commercial and deeply discounted UPS rates, label printing, batch uploads from a spreadsheet, and shipment tracking. The de facto standard for small resellers.",
+      "cost": "Free forever. No monthly fees, no markup, no credit card required; you pay only the postage per label",
+      "limits": "Requires a free account to buy labels; US-origin shipments only for the discounted UPS services; paid postage means buying it is a real transaction",
+      "url": "https://www.pirateship.com",
+      "verified_on": "2026-11-03",
+      "notes": "Compare USPS vs UPS on the same label screen before printing. Their USPS Rate Calculator and Zone Map are also free without an account."
+    },
+    {
+      "id": "usps-postcalc",
+      "category": "shipping-calculators",
+      "name": "USPS Retail Postage Price Calculator",
+      "what_it_is": "The Postal Service's own rate calculator: pick destination ZIP or country, weight, and shape, and see retail USPS prices including flat-rate box options.",
+      "cost": "Free, no account needed to run quotes",
+      "limits": "Shows USPS retail rates only (no UPS comparison, no commercial rates); formulas change with yearly price updates",
+      "url": "https://postcalc.usps.com",
+      "verified_on": "2026-11-03",
+      "notes": "Perfect for checking whether a flat-rate Priority box beats a plain first-class or ground option before you print anywhere."
+    },
+    {
+      "id": "ebay-advanced-search",
+      "category": "sold-price-lookups",
+      "name": "eBay Advanced Search (Sold Items)",
+      "what_it_is": "eBay's built-in completed-listings search: check \u201cSold items\u201d on an ordinary keyword search to see what similar items actually sold for, including shipping shown.",
+      "cost": "Free with an eBay account (sign in to see sold listings)",
+      "limits": "Sold data only reaches back about 90 days; Best Offer accepted prices can display as the crossed-out asking price instead of the real accepted amount",
+      "url": "https://www.ebay.com/sch/ebayadvsearch",
+      "verified_on": "2026-11-03",
+      "notes": "The source of truth for most comps. Sort by ending-soonest and scan the last several sells, not just the highest."
+    },
+    {
+      "id": "pricecharting",
+      "category": "sold-price-lookups",
+      "name": "PriceCharting",
+      "what_it_is": "Free price guides for video games, trading cards, comics, Funko Pops, coins, and LEGO sets, with long-range value charts and loose/new/graded price columns.",
+      "cost": "Free to browse with a free account; optional premium subscription for advanced tools",
+      "limits": "Price accuracy depends on contributors; fewer comps on niche items; premium-only extras include API access and collection reporting",
+      "url": "https://www.pricecharting.com",
+      "verified_on": "2026-11-03",
+      "notes": "Unmatched free history for retro games and TCG singles; cross-check against eBay sold listings for freshness."
+    },
+    {
+      "id": "130point",
+      "category": "sold-price-lookups",
+      "name": "130point",
+      "what_it_is": "Free sold-price search that aggregates eBay completed sales across major marketplaces and shows the accepted Best Offer price that eBay often hides behind the crossed-out asking price.",
+      "cost": "Free, no account required for search; paid collection management is optional",
+      "limits": "Mostly trading-card focused; not every eBay sale appears in results; sales history reaches back months, not years; the site blocks some automated access, so check it in your browser",
+      "url": "https://130point.com",
+      "verified_on": "2026-11-03",
+      "notes": "Verified live on 2026-11-03 via the site's own about page and current third-party reviews (direct automated fetches return 403 because the site bot-blocks)."
+    },
+    {
+      "id": "flipwise",
+      "category": "sales-trackers",
+      "name": "Flipwise",
+      "what_it_is": "An eBay-native inventory and profit tracker. Syncs active and sold listings, computes real profit and ROI after fees and shipping, tracks cost and storage location, and generates tax-ready reports.",
+      "cost": "Free plan for up to 24 total listings (new members); paid tiers scale by store size",
+      "limits": "Free tier is capped at 24 listings and is meant for trying it out; eBay-centric, other marketplaces are manual entry",
+      "url": "https://www.flipwise.app",
+      "verified_on": "2026-11-03",
+      "notes": "Available in the US, Canada, UK, Australia, and much of western Europe."
+    },
+    {
+      "id": "google-sheets",
+      "category": "sales-trackers",
+      "name": "Google Sheets",
+      "what_it_is": "The zero-cost, old-school answer: a free spreadsheet with template gallery for tracking buys, sales, profit, and storage locations, accessible from any device.",
+      "cost": "Free with any Google account, forever",
+      "limits": "No automatic marketplace sync; everything is manual entry; big workbooks can get slow",
+      "url": "https://docs.google.com/spreadsheets/u/0/",
+      "verified_on": "2026-11-03",
+      "notes": "Search 'reseller' or 'inventory' in the template gallery, or see docs/prep-setup.md for a simple one-tab ledger design."
+    },
+    {
+      "id": "ebay-seller-hub",
+      "category": "sales-trackers",
+      "name": "eBay Seller Hub",
+      "what_it_is": "eBay's built-in selling dashboard: list items, watch sales trends, manage orders, and run basic performance analytics without any third-party tool.",
+      "cost": "Free with your eBay account; advanced reporting needs a store subscription",
+      "limits": "Designed for eBay only; deeper analytics (profit by item, cost basis, multi-channel) require stores or third-party tools",
+      "url": "https://www.ebay.com/sl/sellerhub",
+      "verified_on": "2026-11-03",
+      "notes": "Start here before paying for anything: supplies, insertion-fee numbers, and basic analytics are all included."
+    },
+    {
+      "id": "avery",
+      "category": "label-makers",
+      "name": "Avery Design & Print",
+      "what_it_is": "Free browser design tool for Avery label sheets: templates for address labels, price tags, and product labels, then print on store-bought Avery sheets with any printer.",
+      "cost": "Free design tool and templates; you buy the blank label sheets (no minimums, free shipping over $75)",
+      "limits": "Designed around Avery sheet sizes (their paper); heavy design features and pre-printed labels are paid",
+      "url": "https://www.avery.com",
+      "verified_on": "2026-11-03",
+      "notes": "Use the Templates menu to open Design & Print. Works fine for SKU and thank-you labels without a thermal printer."
+    },
+    {
+      "id": "labelary",
+      "category": "label-makers",
+      "name": "Labelary",
+      "what_it_is": "Free online ZPL viewer and barcode generator: paste ZPL or design labels in the browser, preview them, and convert to PNG or PDF. Also generates QR, Code 128, UPC, and more.",
+      "cost": "Free web viewer and generator; simple free API tier for the rendering engine",
+      "limits": "ZPL-centric (thermal-printer language), so it is most useful if you have a Zebra-style label printer or want to test label code",
+      "url": "https://www.labelary.com",
+      "verified_on": "2026-11-03",
+      "notes": "The barcode generator alone is worth bookmarking for SKU labels."
+    }
+  ]
+}
